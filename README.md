@@ -1,8 +1,7 @@
 # rock-paper-scissors-python
 # Rock Paper Scissors 🎮
 
-This is my first Python project!  
-I built a simple Rock-Paper-Scissors game after learning coding for just 2 weeks.  
+This is my first Python project!   
 
 ---
 
